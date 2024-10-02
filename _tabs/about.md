@@ -8,8 +8,9 @@ order: 4
 
 # Janrdrz
 
-Puerto Rico
+Puerto Rico, BS Computer Enginnering
 
+* Github: [Janrdrz](https://github.com/janrdrz)
+* LinkedIn: [Jan Rodriguez](https://www.linkedin.com/in/janrdrz/)
+* Discord: janrdrz
 * Certifications: OSCP, CRTO, CEH
-
-
