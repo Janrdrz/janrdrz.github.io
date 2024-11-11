@@ -6,11 +6,18 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# Janrdrz
+# Jan Rodriguez
 
-Puerto Rico, BS Computer Enginnering
+Puerto Rico, BS Computer Enginnering. 
+
+Authorized to work in US. Experienced in Penetration Testing and Red Team Operations. 
+
+- 4 years of experience as a System Administrator.
+- 6+ months of experience as a Penetration Tester.
+
+Exploring for opportunities in roles aligned with Penetration Testing and Security Assessments.
 
 * Github: [Janrdrz](https://github.com/janrdrz)
 * LinkedIn: [Jan Rodriguez](https://www.linkedin.com/in/janrdrz/)
 * Discord: janrdrz
-* Certifications: OSCP, CRTO, CEH
+* Certifications: OSCP, CTPS, CRTO, CEH
